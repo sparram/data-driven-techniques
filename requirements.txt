@@ -1,0 +1,5 @@
+matplotlib==3.11.1
+numpy==2.5.2
+pydmd==2025.8.1
+scipy==1.18.1
+vitaldb==1.7.2
